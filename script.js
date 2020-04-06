@@ -4,7 +4,7 @@ let button2 = document.querySelector('.b-2');
 
 
 button.onclick = () => {
-    h1.style.backgroundColor = 'red';
+    h1.style.backgroundColor = 'green';
 }
 
 button2.onclick = () => {
